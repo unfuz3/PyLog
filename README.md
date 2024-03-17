@@ -1,0 +1,2 @@
+# PyLog
+Proposition logic software
