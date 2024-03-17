@@ -1,2 +1,2 @@
 # PyLog
-Proposition logic software
+Proposition logic software. WIP.
